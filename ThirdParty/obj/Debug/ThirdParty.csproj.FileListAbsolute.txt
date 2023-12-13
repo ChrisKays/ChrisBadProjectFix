@@ -1,0 +1,6 @@
+C:\Users\user\Documents\Confluence\BadProject\ThirdParty\bin\Debug\ThirdParty.dll
+C:\Users\user\Documents\Confluence\BadProject\ThirdParty\bin\Debug\ThirdParty.pdb
+C:\Users\user\Documents\Confluence\BadProject\ThirdParty\obj\Debug\ThirdParty.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Confluence\BadProject\ThirdParty\obj\Debug\ThirdParty.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Confluence\BadProject\ThirdParty\obj\Debug\ThirdParty.dll
+C:\Users\user\Documents\Confluence\BadProject\ThirdParty\obj\Debug\ThirdParty.pdb
